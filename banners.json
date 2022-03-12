@@ -1,4 +1,9 @@
 {
-  current: { path: "", visibility: { start: "", end: ""} }
-  
+  "current":{
+    "path":"",
+    "visibility":{
+      "start":"",
+      "end":""
+    }
+  }
 }
